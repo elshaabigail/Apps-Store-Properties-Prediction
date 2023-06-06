@@ -1,5 +1,5 @@
 # Apps-Store-Properties-Prediction
-A project aimed at predicting variables pf interest within the dataset.
+A project aimed at predicting variables of interest within the dataset.
 
 The dataset was uploaded to Kaggle by the user Tristan around August 2019.
 Original data is extracted using the iTunes API and the App Store sitemap.
