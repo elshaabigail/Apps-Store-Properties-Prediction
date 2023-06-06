@@ -14,5 +14,5 @@ Problem Formulation in this project :
 
 this project contains EDA and utilize the functionality of datetime library to gain valueable information 
 
-This project begins with conducting exploratory data analysis (EDA), then utilize the functionality of datetime library to gain valueable information.
-The main focus of this project is in the section 4 and 6 which involves DecisionTreeReggresion and RandomForestRegression.
+This project begins with conducting exploratory data analysis (EDA), then utilize the functionality of datetime library to gain valuable information.
+The main focus of this project is in the section 4 and 6 which involves DecisionTreeRegresion and RandomForestRegression.
