@@ -12,7 +12,7 @@ Problem Formulation in this project :
 5. How do microtransactions affect rating?
 6. What variables affect age restrictions? 
 
-this project contains EDA and utilize the functionality of datetime library to gain valueable information 
+this project contains EDA, Feature Engingeering and utilize the functionality of datetime library to gain valueable information 
 
 This project begins with conducting exploratory data analysis (EDA), then utilize the functionality of datetime library to gain valuable information.
 The main focus of this project is in the section 4 and 6 which involves DecisionTreeRegresion and RandomForestRegression.
